@@ -15,11 +15,22 @@
 <br>💢¦ اترك الترمنال مفتوح وافتح ترمنال جديد وخلي
 <br>
 
-`رابط السورس هنا`
+git clone https://github.com/rami009/DEV_SYRIA.git
+ 
+cd DEV_SYRIA
 
+chmod +x launch.sh
 
+./launch.sh install
+
+./launch.sh
 
 <br>
+ 
+ لتنصيبه بكود واحد 
+ 
+ git clone https://github.com/rami009/DEV_SYRIA.git && cd DEV_SYRIA && chmod +x launch.sh && ./launch.sh install && ./launch.sh
+
 
 ## بعد ما تخلص التنصيب 
 
