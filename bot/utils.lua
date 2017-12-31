@@ -1,6 +1,6 @@
 -- BY @Xxx_DEVRAMI_xxX
 --[[
-by omar alsaray @RAMBO_SYR  \ @Xxx_DEVRAMI_xxX
+by @RAMBO_SYR  \ @Xxx_DEVRAMI_xxX
 �� ������� �� ���� ����� ���� ����� @Xxx_DEVRAMI_xxX 
 �� ������� � �����
 �� ����� ��������� �� ��� ��� ������
